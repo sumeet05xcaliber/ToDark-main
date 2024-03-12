@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "331545772664",
+    "project_id": "project-46589",
+    "storage_bucket": "project-46589.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331545772664:android:434560e2fbf49568e8e38d",
+        "android_client_info": {
+          "package_name": "com.yoshi.todark"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbq_bOqU5wZbNBoPEHh3j03BoBDp3qcvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
